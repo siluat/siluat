@@ -18,7 +18,9 @@
 ## Interests
 
 - Software engineering with AI
-- 2D pixel art editor
+- Web frontend
+- 2D game development
+- Pixel art editor development
 - Rust
 
 ## Legacy Projects
