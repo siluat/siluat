@@ -7,8 +7,8 @@
 ## Projects
 
 - 🌐 **[web-projects](https://github.com/siluat/web-projects)** - Personal web projects
-  - 📝 **dotori-note** - Personal blog ([dotori.blog](https://dotori.blog))
-  - 🎨 **[color-contrast-cli](https://github.com/siluat/web-projects/tree/main/packages/color-contrast-cli)** - WCAG 2.1 contrast ratio checker CLI
+  - 📝 **[dotori-note](https://dotori.blog)** - Personal blog
+  - 🎨 **[color-contrast-cli](https://www.npmjs.com/package/@siluat/color-contrast-cli)** - WCAG 2.1 contrast ratio checker CLI
 
 ## Currently Studying
 
