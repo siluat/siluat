@@ -9,6 +9,7 @@
 - 🌐 **[web-projects](https://github.com/siluat/web-projects)** - Personal web projects
   - 📝 **[dotori-note](https://dotori.blog)** - Personal blog
   - 🎨 **[color-contrast-cli](https://www.npmjs.com/package/@siluat/color-contrast-cli)** - WCAG 2.1 contrast ratio checker CLI
+- 🖼️ **[DOTORIXEL](https://github.com/siluat/dotorixel)** - Pixel art editor `🚧 Early Development`
 
 ## Currently Studying
 
