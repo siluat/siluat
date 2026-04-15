@@ -1,17 +1,13 @@
-# Hi, I'm Myunggil 👋
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 ## Interests
 
-- Software engineering with AI
-- Web frontend
-- 2D game development and tooling
-- Getting proficient in Rust
+- Finding ways to leverage AI
+- Web frontend development ecosystem
+- Solo or indie game development and related tooling
+- Rust
 
 ## Projects
+
+> Learning by building. Occasionally useful, hopefully.
 
 - 🌐 **[web-projects](https://github.com/siluat/web-projects)** - Monorepo for personal web projects
   - 📝 [dotori-note](https://dotori.blog) - Personal blog
